@@ -1,4 +1,6 @@
-# Spacegray
+# My take on Spacegray
+
+[Really just made some very little color scheme modifications]
 
 A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
 
@@ -121,7 +123,7 @@ Tabs height:
   "spacegray_tabs_xlarge": true
 ```
 
-Tabs width: 
+Tabs width:
 
 ```json
   "spacegray_tabs_auto_width": true
