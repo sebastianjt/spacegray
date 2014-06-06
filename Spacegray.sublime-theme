@@ -8,7 +8,7 @@
     {
         "class": "tabset_control",
         "layer0.texture": "",
-        "layer0.tint": [28, 31, 38], // -00
+        "layer0.tint": [17, 19, 23], // -00
         "layer0.inner_margin": 0,
         "layer0.opacity": 1,
         "content_margin": 0,
@@ -30,7 +30,7 @@
         "max_margin_trim": 0,
         "hit_test_level": 0,
         "layer0.texture": "",
-        "layer0.tint": [28, 31, 38], // -00
+        "layer0.tint": [17, 19, 23], // -00
         "layer0.inner_margin": [5,5],
         "layer0.opacity": 1
     },
@@ -420,7 +420,7 @@
     {
         "class": "status_bar",
         "layer0.texture": "",
-        "layer0.tint": [28, 31, 38], // -00
+        "layer0.tint": [17, 19, 23], // -00
         "layer0.opacity": 1,
         "content_margin": 4
     },
@@ -677,6 +677,7 @@
         // "layer0.texture": "",
         "layer0.tint": [28, 31, 38] // -00
     },
+
 //
 // TEXT INPUT FIELD
 //
